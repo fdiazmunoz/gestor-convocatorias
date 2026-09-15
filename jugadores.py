@@ -91,7 +91,4 @@ def cambiar_estado(jugador_id, nuevo_estado):
 
 
 if __name__ == "__main__":
-    # Zona de pruebas manuales
-    cambiar_estado(1, "cansado")           
-    for fila in listar_jugadores():
-        print(fila)
+    pass
